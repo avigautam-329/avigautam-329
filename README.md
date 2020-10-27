@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on AWS Cloud Services and Deep Learning Projects
 - 🌱 I’m currently learning Deep Learning and AWS
 - 👯 I’m looking to collaborate on ML/DL and web apps
-- 🤔 I’m looking for help with AWS and open source tools
-- 📫 How to reach me: avigautam.123@gmail.com
+- :grey_question: I’m looking for help with AWS and open source tools
+- :e-mail: How to reach me: avigautam.123@gmail.com
 - :fire: Recent Accomplishments: Won Local People's choice award in NASA SPACE APPS 2020
 
 ![Avi's github stats](https://github-readme-stats.vercel.app/api?username=avigautam-329&show_icons=true&theme=highcontrast)
