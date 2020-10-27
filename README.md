@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**avigautam-329/avigautam-329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on AWS Cloud Services
 - 🌱 I’m currently learning Deep Learning and AWS
 - 👯 I’m looking to collaborate on ML/DL and web apps
