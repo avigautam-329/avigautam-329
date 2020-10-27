@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋! How you doin ? :smiley:
 
 - 🔭 I’m currently working on AWS Cloud Services
 - 🌱 I’m currently learning Deep Learning and AWS
