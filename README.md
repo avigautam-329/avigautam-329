@@ -1,6 +1,6 @@
 ### Hello there 👋! How you doin ? :smiley:
 - :pushpin: I am currently working as a  Reasearch and Development associate at BEECLUST MRSL and IEEE SRM STUDENT CHAPTER.
-- 🔭 I’m currently working on AWS Cloud Services
+- 🔭 I’m currently working on AWS Cloud Services and Deep Learning Projects
 - 🌱 I’m currently learning Deep Learning and AWS
 - 👯 I’m looking to collaborate on ML/DL and web apps
 - 🤔 I’m looking for help with AWS and open source tools
