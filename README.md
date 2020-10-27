@@ -1,4 +1,4 @@
-### Hello there 👋! How you doin ? :smiley:
+### Hello there 👋! How you doin ? :wink:
 - :pushpin: I am currently working as a  Reasearch and Development associate at BEECLUST MRSL and IEEE SRM STUDENT CHAPTER.
 - 🔭 I’m currently working on AWS Cloud Services and Deep Learning Projects
 - 🌱 I’m currently learning Deep Learning and AWS
