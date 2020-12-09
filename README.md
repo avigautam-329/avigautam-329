@@ -7,4 +7,4 @@
 - :e-mail: How to reach me: avigautam.123@gmail.com
 - :fire: Recent Accomplishments: Won Local People's choice award in NASA SPACE APPS 2020
 
-![Avi's github stats](https://github-readme-stats.vercel.app/api?username=avigautam-329&show_icons=true&theme=highcontrast)
+![Avi's github stats](https://github-readme-stats.vercel.app/api?username=avigautam-329&show_icons=true)
