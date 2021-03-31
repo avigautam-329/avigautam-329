@@ -1,5 +1,5 @@
 ### Hello there 👋! How you doin ? :wink:
-- :pushpin: I am currently working as a  Web Development Lead at ACM=W SRM-IST STUDENT CHAPTER and as a Reasearch and Development associate at IEEE SRM STUDENT CHAPTER.
+- :pushpin: I am currently working as a  Web Development Lead at ACM-W SRM-IST STUDENT CHAPTER and as a Reasearch and Development associate at IEEE SRM STUDENT CHAPTER.
 - 🔭 I’m currently working on AWS Cloud Services and Deep Learning Projects
 - 🌱 I’m currently learning Deep Learning and AWS
 - 👯 I’m looking to collaborate on ML/DL and web apps
