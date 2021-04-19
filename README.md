@@ -7,6 +7,6 @@
 - :e-mail: How to reach me: avigautam.123@gmail.com and ag6803@srmist.edu.in
 - :fire: Recent Accomplishments:
     -  Won Local People's choice award in NASA SPACE APPS 2020
-    -  AWS Cloud Practioner Certification Examination Passed(893/1000)
+    -  AWS Certified Cloud Practioner
 
 ![Avi's github stats](https://github-readme-stats.vercel.app/api?username=avigautam-329&show_icons=true)
